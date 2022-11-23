@@ -42,7 +42,7 @@ https://www.linkedin.com/in/stepan-is-amazing/
  <img alt="Red Hat" src="https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=redhat&logoColor=white" width="100" height="30"/>
 
 <br>
-<img alt="SCM:" src="https://img.shields.io/badge/linux:-white?style=for-the-badge&logoColor=black">
+<img alt="SCM:" src="https://img.shields.io/badge/SCM:-white?style=for-the-badge&logoColor=black">
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>  
 
