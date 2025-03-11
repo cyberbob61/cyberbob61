@@ -1,7 +1,7 @@
 # Hi, I'm Stepan 👋🏻
 
-## **I'm a Lead DevOps Engineer / Lead Cloud Engineer.**
-- 🗣 DevOps engineer with 15-years experience in cloud infrastructure, systems engineering, automation and networks.
+## **I'm a Lead DevOps Engineer.**
+- 🗣 DevOps engineer with +10-years experience in cloud infrastructure, systems engineering, automation and networks.
 - 🚀 Proficient in Cloud, IaC, Python with the successful implementation of several projects.
 - 📲 Expert in TCP/IP networks, network architecture, security with dozens of different projects.
 <br>
